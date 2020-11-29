@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MZW5Ejm0VfwlOPjiMsXDVXRhv4jgB3j0F+Sf0u4tUOKwdsmf6X7svv9un3DEZajzO5TXGCLGsfMfoHOqWHtbA==",
+  "success": true,
+  "projectFilePath": "/home/awet/RiderProjects/test_csharp/test_csharp/test_csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/awet/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/awet/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.0/microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

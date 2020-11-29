@@ -1,0 +1,9 @@
+/home/awet/RiderProjects/test_csharp/test_csharp/bin/Debug/net48/test_csharp.exe.config
+/home/awet/RiderProjects/test_csharp/test_csharp/bin/Debug/net48/test_csharp.exe
+/home/awet/RiderProjects/test_csharp/test_csharp/bin/Debug/net48/test_csharp.pdb
+/home/awet/RiderProjects/test_csharp/test_csharp/obj/Debug/net48/test_csharp.csprojAssemblyReference.cache
+/home/awet/RiderProjects/test_csharp/test_csharp/obj/Debug/net48/test_csharp.AssemblyInfoInputs.cache
+/home/awet/RiderProjects/test_csharp/test_csharp/obj/Debug/net48/test_csharp.AssemblyInfo.cs
+/home/awet/RiderProjects/test_csharp/test_csharp/obj/Debug/net48/test_csharp.csproj.CoreCompileInputs.cache
+/home/awet/RiderProjects/test_csharp/test_csharp/obj/Debug/net48/test_csharp.exe
+/home/awet/RiderProjects/test_csharp/test_csharp/obj/Debug/net48/test_csharp.pdb
